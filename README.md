@@ -1,4 +1,4 @@
-# 🏰 Problema de las 8 Reinas - Python MVC
+# 👑 Problema de las 8 Reinas - Python MVC
 
 Solución al clásico problema de las 8 reinas del ajedrez utilizando el patrón de diseño **Modelo-Vista-Controlador (MVC)** en Python.
 
