@@ -171,8 +171,9 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## 👤 Autor
 
-**Valenbu**
-- GitHub: [@Valenbu](https://github.com/Valenbu)
+****
+- Valentina Burgos
+- Andres Moreno
 
 ## 🙏 Agradecimientos
 
@@ -180,13 +181,3 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 - Implementado como proyecto educativo para aprender MVC y algoritmos de backtracking
 
 ---
-
-⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub!
-
-👤 Autor
-Valentina Burgos//Andres Moreno
-
-🙏 Agradecimientos
-
-Basado en el clásico problema de las N reinas
-Implementado como proyecto educativo para aprender MVC y algoritmos de backtracking
